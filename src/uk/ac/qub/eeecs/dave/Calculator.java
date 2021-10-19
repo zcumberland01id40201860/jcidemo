@@ -6,7 +6,11 @@ public class Calculator {
 	}
 	
 	public int sub(int a, int b) {
+		System.out.println("test");
 		return a-b;
+		
 	} 
+	//newlines
+	//newlines
 	
 }
